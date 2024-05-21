@@ -1,4 +1,4 @@
-from rockets import SmallRocket, Launchpad
+from rockets import Launchpad, SmallRocket,LargeRocket
 
-pad = Launchpad(SmallRocket())
+pad = Launchpad(LargeRocket())
 pad.launch()

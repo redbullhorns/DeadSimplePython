@@ -1,3 +1,3 @@
 class LargeRocket:
-    def launch():
+    def launch(self):
         print("WHOOOOOOSSSHHHH!")
