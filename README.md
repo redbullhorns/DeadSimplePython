@@ -1,4 +1,4 @@
-# Code from "Dead Simple Python"
+# Code from "Dead Simple Python".
 
 This repository contains the source code for the examples from
 "Dead Simple Python" by Jason C. McDonald (No Starch Press, October 2022).
